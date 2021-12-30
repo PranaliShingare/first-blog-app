@@ -1,0 +1,20 @@
+.App {
+  background-color: #fff6e3;
+}
+
+body *{
+	overflow: auto;
+}
+
+.App-header {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+@media only screen and (max-width: 500px){
+
+	.App-header {
+    margin : 0px;
+  }
+
+}
